@@ -1,1 +1,1 @@
-# Hate-Speech-Content-Moderation
+# HateSpeech
